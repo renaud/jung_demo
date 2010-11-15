@@ -1,1 +1,7 @@
 demo/sample code for JUNG to illustrate graph manipulation
+
+To prepare this code for eclipse, run the following maven command:
+
+    mvn eclipse:eclipse
+
+which will generate the .classpath and .project files for eclipse. 
