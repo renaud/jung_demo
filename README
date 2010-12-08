@@ -1,7 +1,18 @@
-demo/sample code for JUNG to illustrate graph manipulation
+demo/sample code for JUNG to illustrate graph manipulation and computation of betweenness centrality
 
 To prepare this code for eclipse, run the following maven command:
 
     mvn eclipse:eclipse
 
 which will generate the .classpath and .project files for eclipse. 
+
+
+Results for BetweennessCentralityDemo:
+
+    Vertices:V0,V1,V2,V3,V4
+    Edges: [V2,V3] [V1,V2] [V0,V1] [V3,V4] [V1,V4] 
+    BC for	V0	0.0
+    BC for	V1	7.0
+    BC for	V2	2.0
+    BC for	V3	1.0
+    BC for	V4	2.0
