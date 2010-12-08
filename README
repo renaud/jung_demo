@@ -16,3 +16,17 @@ Results for BetweennessCentralityDemo:
     BC for	V2	2.0
     BC for	V3	1.0
     BC for	V4	2.0
+
+Results for EigenvectorCentralityDemo:
+    
+    Vertices:V1,V3,V2,V4,V5,V0
+    Edges: [V2,V4] [V3,V2] [V4,V0] [V1,V5] [V4,V5] [V1,V1] [V3,V5] [V1,V3] 
+    EigenvectorCentrality for	V1	0.16666666666666666
+    EigenvectorCentrality for	V3	0.16666666666666666
+    EigenvectorCentrality for	V2	0.16666666666666666
+    EigenvectorCentrality for	V4	0.16666666666666666
+    EigenvectorCentrality for	V5	0.16666666666666666
+    EigenvectorCentrality for	V0	0.16666666666666666
+    
+    
+    
